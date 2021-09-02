@@ -1,0 +1,11 @@
+0 on_off
+1 temp_up
+2 temp_down
+3 comfort
+4 Strong_wind
+5 Weak_wind
+6 breeze
+7 Automatic_wind_dir
+8 Air_con_mode
+9 Dehumid_mode
+10 fan_mode

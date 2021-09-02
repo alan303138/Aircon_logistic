@@ -10,6 +10,7 @@ with open('record.csv', newline='') as csvfile:
     # 以迴圈輸出每一列
     for row in rows:
         for i in range(len(row)):
+            print(i)
             row[i] = int(row[i])
         x.append(row)
 for i in range(len(x)):
